@@ -1,6 +1,7 @@
 
 
 //   V.dilux
+// comment
 
 #include<stdio.h>
 int main()
