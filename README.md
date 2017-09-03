@@ -1,4 +1,6 @@
 # ATM
 C language programming ATM view
 
-Created by Diluxan
+Created by V.Diluxan
+
+03/09/2017
