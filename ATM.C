@@ -1,7 +1,11 @@
 
 
+<<<<<<< HEAD
 //   V.dilux
 // comment
+=======
+//   V.dilux 02-09
+>>>>>>> 57c8897a23d2dafb77ceb5fa0bcf2f3e791a9d55
 
 #include<stdio.h>
 int main()
